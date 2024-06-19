@@ -1,0 +1,4 @@
+C:/Users/lanaa/OneDrive/Desktop/DATASET/TRUE_FALSE.zip filter=lfs diff=lfs merge=lfs -text
+C:/Users/lanaa/OneDrive/Desktop/DATASET/TRUE_FALSE.zip filter=lfs diff=lfs merge=lfs -text
+*[[:space:]].psd filter=lfs diff=lfs merge=lfs -text
+C:/Users/lanaa/OneDrive/Desktop/DATASET/TRUE_FALSE.zip filter=lfs diff=lfs merge=lfs -text
